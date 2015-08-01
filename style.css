@@ -1,7 +1,21 @@
 body {background-color: orange}
-body {background-image:url(7e63b1435fddfba3560a4a9e0685ad03.gif);}
-h1 {background-color: red}
-h1 {text-align:center}
+body {background-image:url(7e63b1435fddfba3560a4a9e0685ad03.gif);background-size: 100%;}
+body { background-image: url(7e63b1435fddfba3560a4a9e0685ad03.gif);background-attachment: fixed;}
+
+ul {
+	
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+li {
+	display:inline;
+	color: cornflowerblue;
+}
+
+h1  {text-align:center;
+color: cornflowerblue;}
 h2 {text-align:center}
 div {text-align:center}
 a:link {text-decoration:none;}   
