@@ -12,7 +12,7 @@ overflow:hidden;
 }
 li
 {
-float:left;
+float:left;font-size: 100%;
 }
 a:link,a:visited
 {
