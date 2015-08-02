@@ -1,0 +1,39 @@
+/*导航栏*/
+li
+{
+display:inline;
+}
+ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a:link,a:visited
+{
+display:block;
+width:160px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#bebebe;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+a:hover,a:active
+{
+background-color:#cc0000;
+}
+h1 {font-size: 300%;color:white;}
+body 
+{
+background-image:url(015KQX92257S.jpg);background-size: 100%;
+background-image: url(015KQX92257S.jpg);background-attachment: fixed;
+}
+#title {font-size: 200%}
