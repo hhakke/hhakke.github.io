@@ -6,3 +6,32 @@ h2 {text-align:center;font-size: 200%}
 a {color: cornflowerblue}
 div {text-align:center}
 img {height: 50%:;}
+img.contacticon {
+	height: 9%;
+	margin-left: 30px;
+}
+
+a.more_info {
+
+}
+
+a.more_info:link {}
+a.more_info:visited {}
+a.more_info:hover {
+	opacity: 0.1;
+}
+a.more_info:active {}
+
+img.contactcon {
+	position: absolute;
+	z-index: 1;
+	
+	
+}
+img.contactcon2 {
+	
+	text-align: center;
+	z-index: -1;
+   
+
+}
